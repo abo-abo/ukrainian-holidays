@@ -1,4 +1,4 @@
-;;; ukrainian-holidays.el --- Ukrainain holidays for Emacs calendar.
+;;; ukrainian-holidays.el --- Ukrainian holidays for Emacs calendar.
 
 ;; Author: Oleh Krehel <ohwoeowho@gmail.com>
 ;; URL: https://github.com/abo-abo/ukrainian-holidays
